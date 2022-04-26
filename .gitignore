@@ -1,0 +1,6 @@
+/.venv
+/.env
+/env
+/venv
+/out
+/card_data.json
