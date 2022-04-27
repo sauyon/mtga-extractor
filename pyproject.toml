@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.8"
 UnityPy = "^1.8.9"
+pyjson5 = "^1.6.1"
 
 [tool.poetry.dev-dependencies]
 
